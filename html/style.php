@@ -3,7 +3,15 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
 <style>
- 
+
+.logo {
+    width: 200px;
+    
+}
+
+.nav-link {
+    color: #0e2f9c;
+}
 
 
 </style>
